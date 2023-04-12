@@ -1,0 +1,15 @@
+======================================
+Title:		Clone Hero
+Rating:		T
+Retail Price:	$0.00
+Composer:	N/A 
+======================================
+Title:		Patapon
+Rating:		E
+Retail Price:	$19.99
+Composer:	Hiroyuki Katani
+======================================
+Title:		Rhythm Heaven
+Rating:		E
+Retail Price:	$49.99
+Composer:	Tsunku 

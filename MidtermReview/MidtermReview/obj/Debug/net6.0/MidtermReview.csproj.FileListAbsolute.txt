@@ -1,0 +1,15 @@
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\bin\Debug\net6.0\MidtermReview.exe
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\bin\Debug\net6.0\MidtermReview.deps.json
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\bin\Debug\net6.0\MidtermReview.runtimeconfig.json
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\bin\Debug\net6.0\MidtermReview.dll
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\bin\Debug\net6.0\MidtermReview.pdb
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\obj\Debug\net6.0\MidtermReview.csproj.AssemblyReference.cache
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\obj\Debug\net6.0\MidtermReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\obj\Debug\net6.0\MidtermReview.AssemblyInfoInputs.cache
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\obj\Debug\net6.0\MidtermReview.AssemblyInfo.cs
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\obj\Debug\net6.0\MidtermReview.csproj.CoreCompileInputs.cache
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\obj\Debug\net6.0\MidtermReview.dll
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\obj\Debug\net6.0\refint\MidtermReview.dll
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\obj\Debug\net6.0\MidtermReview.pdb
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\obj\Debug\net6.0\MidtermReview.genruntimeconfig.cache
+C:\Users\rochellew\Downloads\MidtermReview\MidtermReview\obj\Debug\net6.0\ref\MidtermReview.dll
